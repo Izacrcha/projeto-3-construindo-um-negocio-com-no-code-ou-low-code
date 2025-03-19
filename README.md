@@ -3,7 +3,7 @@
 
 # DESCRIÇÃO:
 
-O site tem como principal objetivo a promoção do cuidado rígido e necessário com a raça de felinos Sphynx, e conta com uma galeria recheada de fotos interessantes sobre a raça que muitas vezes é 
+O site (BLOG) tem como principal objetivo a promoção do cuidado rígido e necessário com a raça de felinos Sphynx, e conta com uma galeria recheada de fotos interessantes sobre a raça que muitas vezes é 
 associada ao preconceito por sua diferença estética.
 
 # FUNCIONALIDADES:
