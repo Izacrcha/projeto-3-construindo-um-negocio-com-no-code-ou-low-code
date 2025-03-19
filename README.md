@@ -13,10 +13,9 @@ Confira o que você vai encontrar:
 
 # Galeria de Fotos:
 - Imagens de alta qualidade de Sphynx em diferentes idades e situações.
-- Espaço para que donos possam enviar fotos de seus gatos e compartilhar histórias.
 - Sessões temáticas: Sphynx bebês, com roupinhas, em momentos engraçados, entre outros.
 
 # Guia Completo de Cuidados:
 - Tutoriais passo a passo sobre banhos, alimentação e higiene.
-- Dicas sobre saúde, vacinação e prevenção de doenças comuns da raça.
-- Recomendações de produtos específicos: shampoos, roupas, protetores solares e ração.
+- Dicas importantes relacionadas a saúde.
+- Recomendações de prevenção.
